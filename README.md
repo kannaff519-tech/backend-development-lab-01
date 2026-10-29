@@ -1,7 +1,7 @@
 
 # Backend Development Fundamentals – Lab 01
 
-**Live Deployment URL:** https://backend-development-fundamentals-lab-01-qzre.onrender.com/
+**Live Deployment URL:** https://backend-development-lab-01-kbzk8b92r-kannaff519-tech.vercel.app/
 
 **Subject:** Backend Development Fundamentals  
 **Year/Term:** Year II, Term II  
@@ -117,8 +117,7 @@ Time Route
 ## Live Deployment
 
 The application has a deployment URL on Render:
-
-https://backend-development-fundamentals-lab-01-qzre.onrender.com/
+https://backend-development-lab-01-kbzk8b92r-kannaff519-tech.vercel.app/
 
 The deployed endpoints can be tested by appending `/about`, `/time`, or `/unknown` to the base URL.
 
